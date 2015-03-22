@@ -1,0 +1,21 @@
+d:\Users\Jedi Master\Google Drive\Programs\Mouse Clicker\Mouse Clicker\bin\Release\Mouse Clicker.exe.config
+d:\Users\Jedi Master\Google Drive\Programs\Mouse Clicker\Mouse Clicker\bin\Release\Mouse Clicker.exe
+d:\Users\Jedi Master\Google Drive\Programs\Mouse Clicker\Mouse Clicker\bin\Release\Mouse Clicker.pdb
+d:\Users\Jedi Master\Google Drive\Programs\Mouse Clicker\Mouse Clicker\obj\Release\Mouse_Clicker.MainWindow.resources
+d:\Users\Jedi Master\Google Drive\Programs\Mouse Clicker\Mouse Clicker\obj\Release\Mouse_Clicker.Properties.Resources.resources
+d:\Users\Jedi Master\Google Drive\Programs\Mouse Clicker\Mouse Clicker\obj\Release\Mouse Clicker.csproj.GenerateResource.Cache
+d:\Users\Jedi Master\Google Drive\Programs\Mouse Clicker\Mouse Clicker\obj\Release\Mouse Clicker.exe
+d:\Users\Jedi Master\Google Drive\Programs\Mouse Clicker\Mouse Clicker\obj\Release\Mouse Clicker.pdb
+d:\Users\Jedi Master\Google Drive\Programs\Mouse Clicker\Mouse Clicker\obj\Release\Mouse Clicker.csprojResolveAssemblyReference.cache
+C:\Users\JHutchison\Documents\Google Drive\Programs\Mouse Clicker\Mouse Clicker\bin\Release\Mouse Clicker.exe.config
+C:\Users\JHutchison\Documents\Google Drive\Programs\Mouse Clicker\Mouse Clicker\obj\Release\Mouse Clicker.exe
+C:\Users\JHutchison\Documents\Google Drive\Programs\Mouse Clicker\Mouse Clicker\obj\Release\Mouse Clicker.pdb
+C:\Users\JHutchison\Documents\Google Drive\Programs\Mouse Clicker\Mouse Clicker\bin\Release\Mouse Clicker.exe
+C:\Users\JHutchison\Documents\Google Drive\Programs\Mouse Clicker\Mouse Clicker\bin\Release\Mouse Clicker.pdb
+C:\Users\JHutchison\Documents\Google Drive\Programs\Mouse Clicker\Mouse Clicker\obj\Release\Mouse Clicker.csprojResolveAssemblyReference.cache
+C:\Users\JHutchison\Documents\Google Drive\Programs\Mouse Clicker\Mouse Clicker\obj\Release\Mouse_Clicker.MainWindow.resources
+C:\Users\JHutchison\Documents\Google Drive\Programs\Mouse Clicker\Mouse Clicker\obj\Release\Mouse_Clicker.Properties.Resources.resources
+C:\Users\JHutchison\Documents\Google Drive\Programs\Mouse Clicker\Mouse Clicker\obj\Release\Mouse Clicker.csproj.GenerateResource.Cache
+D:\Google Drive\Programs\Mouse Clicker\Mouse Clicker\bin\Release\Mouse Clicker.exe.config
+D:\Google Drive\Programs\Mouse Clicker\Mouse Clicker\obj\Release\Mouse Clicker.exe
+D:\Google Drive\Programs\Mouse Clicker\Mouse Clicker\obj\Release\Mouse Clicker.pdb
